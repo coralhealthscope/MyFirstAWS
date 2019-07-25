@@ -23,4 +23,4 @@ phases:
       - ls -ltr
 artifacts:
    files:
-   - target/messageUtil-1.0.jar
+   - target/samples-1.0.0.jar
